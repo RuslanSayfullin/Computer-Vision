@@ -1,10 +1,5 @@
-# blog_django_rest_framework
-Создаем API блога на Django REST Framework
 
-В этом проекте рассмотрим как: 
-* Добавлять новые и существующие модели Django в API.
-* Сериализовать модели с помощью встроенных сериализаторов для распространенных API-паттернов.
-* Создавать представления и URL-паттерны.
-* Создавать отношения многие-к-одному и многие-ко-многим.
-* Аутентифицировать пользовательские действия.
-* Использовать созданный API Django REST Framework.
+
+Here we have more than 100 C++ Programs covering important programs starting from basics, patterns, different data structures in Standard Template Library in C++.
+
+This is a great set for beginners to practice C++ programming.
