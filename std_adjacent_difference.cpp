@@ -1,5 +1,6 @@
 #include <iostream>
 #include <algorithm>
+#include <numeric>
 
 int main() {
 	int arr[] = {1, 2, 3, 5, 9, 11, 12};
